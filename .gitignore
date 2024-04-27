@@ -1,0 +1,6 @@
+*.csv
+.Rhistory
+.RData
+BD/
+Codigo_Pentaho/
+Tableau/
